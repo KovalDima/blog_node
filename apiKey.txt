@@ -1,0 +1,2 @@
+const apiKey =
+  "LNYARnMJlGOT32NG0gTW1DzadZjPX4eezArskCSOrxKdfEjunvMYMYnnWoc8evne"; // blog-node
